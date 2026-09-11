@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Acme AI",
+    "location": "Remote",
+    "seniority_level": "Senior",
+    "description": "We are looking for a Senior ML Engineer to build and deploy production-grade retrieval-augmented generation systems using vector search, embeddings, and LLM orchestration frameworks like LangChain.",
+    "requirements": [
+      "5+ years of experience in machine learning or software engineering",
+      "Hands-on experience with vector embeddings and similarity search",
+      "Experience with LangChain or similar LLM orchestration frameworks",
+      "Strong Python skills and experience with production ML systems"
+    ],
+    "posted_date": "2026-07-20",
+    "source_url": "https://www.linkedin.com/jobs/view/0000000000"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company_name": "Beta Analytics",
+    "job_location": "New York, NY",
+    "job_description": "Build and maintain ETL pipelines processing terabytes of data daily. Collaborate with data science teams to productionize models.",
+    "qualifications": "3+ years of data engineering experience\nExpertise in SQL and Python\nExperience with Airflow or similar orchestration tools",
+    "date_posted": "2026-07-15"
+  }
+]
